@@ -1,0 +1,21 @@
+PyQt5
+psutil
+pycryptodomex
+pywin32
+pymem
+silk-python
+pyaudio
+fuzzywuzzy
+python-Levenshtein
+Pillow==11.0.0
+requests
+flask==3.0.0
+pyecharts==2.0.1
+jieba==0.42.1
+google==3.0.0
+protobuf==4.25.1
+soupsieve==2.5
+lz4==4.3.2
+pilk==0.2.4
+# 微信 4.x 适配层需要：消息正文是 ZSTD 压缩的
+zstandard>=0.22.0
