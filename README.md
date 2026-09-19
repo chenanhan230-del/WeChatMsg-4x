@@ -1,5 +1,5 @@
 # WeChatMsg-4x
-微<h1 align="center">我的数据我做主</h1>
+<h1 align="center">我的数据我做主</h1>
 <div align="center">
 <img src="https://img.shields.io/badge/WeChat-留痕-blue.svg">
 <a href="https://github.com/LC044/WeChatMsg/stargazers">
